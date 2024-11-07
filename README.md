@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kanenass
+- 🌱 I’m currently learning CSS.
+- 💞️ I’m looking to collaborate on Wordpress websites.
+- 📫 Feel free to send me whatever you feel like!
+- ⚡ Fun fact: Calmness is the base of Happiness.
